@@ -1,0 +1,63 @@
+FABULOUS LUCK DRAGON
+Bard 25
+Druid 5
+Shifter 10
+
+Bard 1-16
+Druid 17-21
+Bard 22-29
+Shifter 30-39
+Bard 40
+
+Race: Human
+STR -
+DEX -
+CON -
+INT 14
+WIS 18+9
+CHA 15+1
+
+1- Lingering Song
+1h Curse Song
+3- Expertise
+6- Improved Expertise
+9- *
+12- *
+15- *
+18- Alertness
+21- Great Wisdom I
+24- Great Wisdom II
+27- Great Wisdom III
+30- 
+33- 
+36- Lasting Inspiration
+39- Dragon Shape
+
+You have a lot of options here. Called Shot, Improved Knockdown, and Improved Disarm, are all good options to bring a little extra offensive power that will also be very effective in team PvP. Skill Focus: Taunt and Extend Spell are also options.
+
+** Epic Prowess, Armor Skin, and Epic Skill Focus: Taunt are your options here. Epic Prowess give you solid bonuses to your toon while Epic Skill Focus: Taunt can potentially benefit your whole party. I recommend Armor Skin and ESF: Taunt.
+
+Concentration 43
+Discipline 43
+Tumble 40
+Hide 43
+Move Silently 43
+Perform 43
+Taunt 43
++3 Extra
+
+Notes:
+A balanced offense/defense Dragon Shape build with Bard support abilities. Its versatility will make it useful in Open World and CTF PvP. It would be a mediocre duelist but you might be able to make it work due to the Bard Song/Curse Song/Taunt trifecta of doom. Its Bard abilities could potentially be helpful in a Shard Run, but this is NOT a Shard Run build and serious parties will overlook you for for something more specialized.
+The problem with Bard support builds is that they tend to be squishy. The main idea behind this build is creating a Bard that can stand on the frontlines with the rest of the party, dealing damage, taunting enemies, and buffing your party/disabling enemies with your Bard Song/Curse Song auras.
+Around 57 AB with Bard Song. Not great, but good enough to wreck low-AC builds like True Weapon Masters. You can pull upwards of 77 AC with Improved Expertise; enough to be durable but not a real tank. When combined with about 1000 HP, this makes you a serious pain in the butt to kill, however. Enemies will be forced to either spend a lot of time trying to focus you and eliminate your damage, taunts, and buff/debuff auras (which can easily turn the tide of a battle) or focus your squishier allies and leave you alone.
+
+With Epic Skill Focus: Taunt and Bard Song/Curse Song, your effective Taunt is around 65. Most casters will boost their concentration higher than this (Clerics and Druids sometimes do not have enough PP to do so, however) but melee opponents do not often raise their Concentration with PP and it will probably stick.
+Your stealth is in the ballpark of 76/66 Hide/Move Silently (this includes in the -8 size penalty to stealth, +5 from Bard Song, and +18/8 from Druid spells/feats). You have access to Hide in Plain sight through Kobold Commando shape.
+You have multiple shapes at your disposal (though Dragon Shape and Kobold Commando are probably the only two that offer you anything of value). Probably nothing more than a RP tool.
+You have full Bard spellbook progression. Focus on healing, buff, and utility spells that will help you and/or your party (Improved Invisiblity, for example). Ice Storm and Cacophonic Burst are decent no-save nukes.
+
+You have access to Joyful Noise (a VERY important party buff) and Silence (one of the most powerful debuffs in the game). Silence can screw around with Bard Song/Curse Song, but it is a valuable tool in the right situation (and terrifying to casters).
+Take +1 CHA at level 40 (Wisdom until then).
+You may consider dropping Hide/Move Silently if you want to spend those skillpoints in something like Listen or Use Magic Device (I would not recommend it but it is an option).
+You have decent all-around saves in the ballpark of 38/42/37 Fortitude/Reflex/Will with +12 DEX/CON. You will still need to bolster your Fortitude at the very least.
+For gear: +12 STR/DEX/CON, +5 Armor/Natural/Deflection/Dodge, Haste, and Fortitude.
