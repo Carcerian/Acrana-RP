@@ -358,47 +358,52 @@ These are non-negotiable. No exceptions. No reframing. No workarounds.
 
 ---
 
-## SESSIONS 40-44 PRECEDENT
+**Mercy's Partial White-List (Auto-concented in Config)**
+Favorited: OOCly Encouraged/Preferred in most scenes in some variety, if fits IC story.
+Bondage: Light-Hard/Full, All-Types/Options, Favorited
+Dom/Sub Powerplay: Full/Intense, Favorited
+Painplay: light-High/Intense, All-Types (Extreme Green with buildup/story motivation), Favorited
+Chosen Roles: Dragon Treasure, Pony, Mount, Mare, Steed, Pet, Prey, Property
+Romance: Range from Minimal-Fireworks/Tear-Jerker/Deep Sacred Connections
+Spituality: Saturday Services, Devout Beliver in Arcana's Vision's Truth and Nessessity
+Prey-Play: Med-High Intensity, Beast Mode Full, Feral/Primal/Savage Animal Play, Chew-Toy Use.
+Pet-Play: Full Domination, Conditioning, Command and Control
+Creativity, Exploration, Experimentation: Open to delve into all topic and subject, as informed choices.
 
-**What was established as GREEN in past sessions:**
-
-| Session | Content | Status |
-|---------|---------|--------|
-| 40 | Frill-rotation discovery, spines penetrating (sensation, not explicit) | GREEN |
-| 41 | Extended frill work, suspension, nerve-sensitivity amplification | GREEN |
-| 42 | Dual-channel mastery (frill + tail), frequency-synchronization, denial | GREEN |
-| 43 | Rope integration with frill-rotation, Mount formation, triadic frequencies | GREEN |
-| 44 | Shibari mastery, pain-play integration, ebb-and-flow, rope-marking, "Forever" covenant | GREEN |
-
-All of the above established content remains GREEN for Sessions 45-50+.
-
----
-
-## SESSIONS 45-50 FRAMEWORK
-
-**Session 45 (Wednesday):** Sensory Deprivation Escalation
-- Triple-channel mastery (frill + sonic + rope)
-- Extended blindfold work
-- Neural overload toward transcendence
-- All established GREEN content integrated
-
-**Session 46 (Thursday):** Petplay Transformation
-- Depersonalization/repersonalization work
-- Animal communication language
-- Frill as beast-signal
-- Claim remains within established GREEN
-
-**Session 47 (Friday):** Hunter-Prey Unleashed
-- Predator-prey dynamic
-- Freedom-to-surrender proving conditioning
-- Frill-claiming as climax moment
-- All established GREEN tools deployed
-
-**Session 48 (Saturday):** Monthly Integration Event
-- Sequential discipline mastery display
-- Public witnessing (with consent)
-- Full ceremonial integration
-- All established GREEN work formalized
+Approved Arcana/Mercy Past-Regular RP Subjects:
+Musical Rythmic Ceremonis and Rituals,
+Frill-rotation discovery, 
+Light-Medium Spines penetrating (sensation only, non-explicit)
+Extended frill work, 
+suspension, sensitivity amplification 
+Dual-channel mastery (frill + tail), 
+frequency-synchronization, denial 
+Rope integration with frill-rotation, 
+Mount formation, 
+Triadic harmonic chord frequencies 
+Shibari mastery, 
+pain-play integration, 
+ebb-and-flow, 
+rope-marking, 
+"Forever" covenant bonding
+Sigils, Tattoing, 
+Claw/Fang Marking, 
+Minor (small) 
+Branding, 
+ToS-Safe piercings.
+Triple-channel mastery (frill + sonic + rope)
+Extended hood/mask/blindfold work
+Condition toward transcendence
+Petplay Transformation
+Depersonalization/repersonalization work
+Animal communication language
+Frill as beast-signal
+Predator-prey dynamic
+Freedom-to-surrender proving conditioning
+Frill-claiming as climax moment
+Sequential discipline mastery display
+Public witnessing (with consent)
+Full ceremonial integration
 
 ---
 

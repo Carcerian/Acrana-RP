@@ -64,4 +64,4 @@
 
 2. **@PrimalThrenody**: "I love how the music subtly shifted to match each phase of the ebb-and-flow. Such attention to detail elevates the entire experience."
 
-3. **@SoulAnchor**: "Mercy's tears when the frill reached 14 RPM were beautiful. So much raw, vulnerable release. It's a testament to Arcana's skill that she can elicit such profound expression." 󠁧󠁢󠁥󠁮󠁧󠁿
+3. **@SoulAnchor**: "Mercy's tears when the frill reached 14 RPM were beautiful. So much raw, vulnerable release. It's a testament to Arcana's skill that she can elicit such profound expression."
